@@ -143,7 +143,7 @@ const minhDang = {
 
 ---
 
-## 🎯 Roadmap 2027
+## 🎯 Roadmap 2025
 
 <div align="center">
 
@@ -191,16 +191,30 @@ const minhDang = {
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### 📅 Metrics & Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dominhdang957/dominhdang957/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dominhdang957/dominhdang957/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dominhdang957/dominhdang957/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=dominhdang957&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&border_color=00B4D8&hide_title=true" width="48%"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dominhdang957&theme=tokyonight&border_radius=12&border=00B4D8&ring=00B4D8&fire=FF6B6B&currStreakLabel=00B4D8&hide_border=false" width="48%"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:00B4D8,100:0D1117&height=120&section=footer&text=Thanks+for+visiting!+⭐&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
+---
+
+### 🎲 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+
+<br/><br/>
+
+---
+
+### 👀 Visitors From Around The World
+
+<img src="https://profile-counter.glitch.me/dominhdang957/count.svg" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:00B4D8,100:0D1117&height=140&section=footer&text=Thanks+for+visiting!+%E2%AD%90&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
 
 </div>
