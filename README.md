@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/dominhdang957">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=👋+Xin+chào!+Mình+là+Minh+Đặng;💻+Front-End+Developer;🎓+IT+Student+at+PTIT;🚀+Software+Engineer+Trainee+%40+Rikkei;⚡+JavaScript+%2F+C%2B%2B+%2F+SQL+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=👋+Xin+chào!+Mình+là+Minh+Đặng;💻+Back-End+Developer;🎓+IT+Student+at+PTIT;🚀+Software+Engineer+Trainee+%40+Rikkei;⚡+JavaScript+%2F+C%2B%2B+%2F+SQL+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -112,7 +112,7 @@ const minhDang = {
 
 ---
 
-## 🎯 Mục Tiêu 2025
+## 🎯 Mục Tiêu 2027
 
 <div align="center">
 
