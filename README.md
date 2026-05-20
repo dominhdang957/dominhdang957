@@ -1,21 +1,56 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00B4D8,100:0077B6&height=200&section=header&text=Đỗ%20Minh%20Đặng&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20IT%20Student%20%7C%20Problem%20Solver&descAlignY=60&descAlign=50"/>
-
-<!-- Typing SVG -->
-<a href="https://github.com/dominhdang957">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=👋+Xin+chào!+Mình+là+Minh+Đặng;💻+Back-End+Developer;🎓+IT+Student+at+PTIT;🚀+Software+Engineer+Trainee+%40+Rikkei;⚡+JavaScript+%2F+C%2B%2B+%2F+SQL+Developer" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00B4D8,100:0077B6&height=220&section=header&text=Do%20Minh%20Dang&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20IT%20Student%20%7C%20Problem%20Solver&descAlignY=60&descAlign=50"/>
 
 <br/>
 
-<!-- Profile Views & Followers -->
+<!-- Typing SVG -->
+<a href="https://github.com/dominhdang957">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&height=60&lines=👋+Hello!+I'm+Minh+Đặng;💻+Front-End+Developer;🎓+IT+Student+at+PTIT;🚀+Software+Engineer+Trainee+%40+Rikkei;⚡+JavaScript+%2F+C%2B%2B+%2F+SQL+Developer" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- Badges Row 1 -->
 <img src="https://komarev.com/ghpvc/?username=dominhdang957&label=Profile+Views&color=00B4D8&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/dominhdang957?label=Followers&style=for-the-badge&color=0077B6&labelColor=0D1117" alt="Followers"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-Front--End%20Development-00B4D8?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Open%20To-Collaborate-00B4D8?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0D1117" />
+
+<br/><br/>
+
+<!-- Status Cards -->
+<table border="0" cellpadding="12">
+  <tr>
+    <td align="center" width="180">
+      <b>🎓 Studying</b><br/>
+      PTIT University<br/>
+      <sub>Information Technology</sub>
+    </td>
+    <td align="center" width="180">
+      <b>💼 Training</b><br/>
+      Rikkei Education<br/>
+      <sub>SE Trainee</sub>
+    </td>
+    <td align="center" width="180">
+      <b>🔥 Learning</b><br/>
+      React.js & TypeScript<br/>
+      <sub>Next target stack</sub>
+    </td>
+    <td align="center" width="180">
+      <b>🌐 Building</b><br/>
+      Portfolio & Projects<br/>
+      <sub>Open for collab</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
 
@@ -47,11 +82,21 @@ const minhDang = {
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
 
-### ⚙️ Backend & Database
+### ⚙️ Language & Database
 <img src="https://skillicons.dev/icons?i=mysql,cpp&theme=dark" />
 
 ### 🛠️ Dev Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+<br/>
+
+<!-- Skill level bars -->
+![HTML](https://img.shields.io/badge/HTML5-90%25-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0D1117)
+![CSS](https://img.shields.io/badge/CSS3-80%25-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0D1117)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-80%25-7952B3?style=flat-square&logo=bootstrap&logoColor=white&labelColor=0D1117)
+![MySQL](https://img.shields.io/badge/MySQL-70%25-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0D1117)
+![C++](https://img.shields.io/badge/C%2B%2B-65%25-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0D1117)
 
 </div>
 
@@ -72,6 +117,14 @@ const minhDang = {
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dominhdang957&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&row=1&column=7" width="95%"/>
+</div>
+
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -80,60 +133,31 @@ const minhDang = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dominhdang957&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" width="95%"/>
-</div>
-
----
-
 ## 📂 Dự Án Nổi Bật
-
-<div align="center">
-
-<a href="#">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dominhdang957&repo=personal-finance-app&theme=tokyonight&border_color=00B4D8&border_radius=12" />
-</a>
-&nbsp;
-<a href="#">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dominhdang957&repo=library-management-db&theme=tokyonight&border_color=00B4D8&border_radius=12" />
-</a>
-
-</div>
-
-<br/>
 
 | 🗂️ Project | 🔧 Tech | 📝 Mô tả |
 |---|---|---|
-| 💰 **Personal Finance Web App** | HTML, CSS, Bootstrap, JS | Quản lý thu chi cá nhân, theo dõi ngân sách theo thời gian thực với JS Array Methods |
-| 📚 **Library Management DB** | SQL, MySQL | Hệ thống thư viện chuẩn hóa với FK, PK, ràng buộc toàn vẹn dữ liệu |
+| 💰 **Personal Finance Web App** | HTML, CSS, Bootstrap, JS | Quản lý thu chi, theo dõi ngân sách với JS Array Methods |
+| 📚 **Library Management DB** | SQL, MySQL | CSDL thư viện chuẩn hóa với FK/PK, ràng buộc toàn vẹn |
 | 🌐 **Portfolio Website** | HTML, CSS, JS | Trang giới thiệu cá nhân responsive, mobile-first |
 
 ---
 
-## 🎯 Mục Tiêu 2027
+## 🎯 Roadmap 2027
 
 <div align="center">
 
-```
-🔲 Thành thạo React.js & Next.js
-🔲 Học TypeScript chuyên sâu
-🔲 Hoàn thành 5+ dự án thực tế
-🔲 Đạt chứng chỉ Frontend Developer
-✅ Học JavaScript nâng cao (Array Methods)
-✅ Thành thạo SQL & Database Design
-✅ Tham gia Rikkei Education
-```
+| Status | Goal |
+|:---:|---|
+| ✅ | Học JavaScript nâng cao — Array Methods (map, filter, reduce) |
+| ✅ | Thành thạo SQL & Database Design |
+| ✅ | Tham gia Rikkei Education |
+| 🔄 | Hoàn thành 5+ dự án thực tế |
+| 🔲 | Thành thạo React.js & Next.js |
+| 🔲 | Học TypeScript chuyên sâu |
+| 🔲 | Đạt chứng chỉ Frontend Developer |
+| 🔲 | Contribute vào Open Source |
 
-</div>
-
----
-
-## ⏱️ WakaTime Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dominhdang957&theme=tokyonight&border_radius=12&border_color=00B4D8&layout=compact" width="60%"/>
 </div>
 
 ---
@@ -142,8 +166,7 @@ const minhDang = {
 
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."*
-> — **John Johnson**
+> *"First, solve the problem. Then, write the code."*  — **John Johnson**
 
 <br/>
 
@@ -176,11 +199,7 @@ const minhDang = {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dominhdang957/dominhdang957/output/github-contribution-grid-snake.svg" />
 </picture>
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:00B4D8,100:0D1117&height=120&section=footer&text=Thanks+for+visiting!+⭐&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
 
